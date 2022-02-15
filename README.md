@@ -15,7 +15,7 @@ The amount of combinations that it can be.<br>
 `=====` can be `ad`, `da`, `bc`, `bba`, `abb`, `aca`, `caa`, `aac` and many other combinations.
 
 ## How do i decrypt it?
-You can't with bruteforce. You can't know what is the right text, you can't know HOW is the right text.
+You can't without bruteforce. You can't know what is the right text, you can't know HOW is the right text.
 
 ## How do i execute it?
 It works in shell/cmd, E.G:<br>
